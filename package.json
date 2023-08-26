@@ -1,0 +1,24 @@
+{
+  "name": "day1-js-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git remote add origin https://github.com/k-abhii/EDUREKA_REACT_CERTIFICATION.git"
+  },
+  "keywords": [
+    "Abhimanyu"
+  ],
+  "author": "Abhimanyu Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
